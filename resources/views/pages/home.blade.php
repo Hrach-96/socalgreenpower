@@ -10,7 +10,7 @@
                     </ol>
                     <div class="carousel-inner" role="listbox">
                         <div class="carousel-item active">
-                            <img src="{{url('assets/images/main-1.jpg')}}" class="img-fluid" alt="Image">
+                            <img src="{{url('assets/images/a10.jfif')}}" class="img-fluid" alt="Image">
                             <div class="carousel-caption">
                                 <div class="p-3" style="max-width: 900px;">
                                     <h1 class="display-2 text-capitalize text-white mb-4">Welcome to Socalgreenpower!</h1>
@@ -26,7 +26,7 @@
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="{{url('assets/images/main-3.jpg')}}" class="img-fluid" alt="Image">
+                            <img src="{{url('assets/images/a1.jfif')}}" class="img-fluid" alt="Image">
                             <div class="carousel-caption">
                                 <div class="p-3" style="max-width: 900px;">
                                     
@@ -53,7 +53,7 @@
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-5">
                         <div class="h-100" style="border: 50px solid; border-color: transparent #13357B transparent #13357B;">
-                            <img src="{{url('assets/images/6f5e74b0-b252-45c0-8b06-01acdc695c4a.jfif')}}" class="img-fluid w-100 h-100" alt="">
+                            <img src="{{url('assets/images/a8.jfif')}}" class="img-fluid w-100 h-100" alt="">
                         </div>
                     </div>
                     <div class="col-lg-7" style="background: linear-gradient(rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(img/about-img-1.png);">
@@ -74,73 +74,73 @@
                         <div class="row g-2">
                             <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                                 <div class="gallery-item h-100">
-                                    <img src="{{url('assets/images/7cc9d2ad-091d-44e7-b873-9572bfbb1fd8.jfif')}}" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <img src="{{url('assets/images/a20.jfif')}}" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
                                         </div>
                                     </div>
                                     <div class="gallery-plus-icon">
-                                        <a href="{{url('assets/images/7cc9d2ad-091d-44e7-b873-9572bfbb1fd8.jfif')}}" data-lightbox="gallery-1" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                        <a href="{{url('assets/images/a20.jfif')}}" data-lightbox="gallery-1" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                                 <div class="gallery-item h-100">
-                                    <img src="{{url('assets/images/80af7dde-2ae1-4fa3-bb10-6f45ead5320e.jfif')}}" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <img src="{{url('assets/images/a2.jfif')}}" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
                                         </div>
                                     </div>
                                     <div class="gallery-plus-icon">
-                                        <a href="{{url('assets/images/80af7dde-2ae1-4fa3-bb10-6f45ead5320e.jfif')}}" data-lightbox="gallery-1" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                        <a href="{{url('assets/images/a2.jfif')}}" data-lightbox="gallery-1" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                                 <div class="gallery-item h-100">
-                                    <img src="{{url('assets/images/56be22aa-1865-4762-870a-60de699be24c.jfif')}}" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <img src="{{url('assets/images/a27.jfif')}}" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
                                         </div>
                                     </div>
                                     <div class="gallery-plus-icon">
-                                        <a href="{{url('assets/images/56be22aa-1865-4762-870a-60de699be24c.jfif')}}" data-lightbox="gallery-1" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                        <a href="{{url('assets/images/a27.jfif')}}" data-lightbox="gallery-1" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                                 <div class="gallery-item h-100">
-                                    <img src="{{url('assets/images/4547d2d2-3eae-41b7-97ee-3e79b97a3b3b.jfif')}}" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <img src="{{url('assets/images/a23.jfif')}}" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
                                         </div>
                                     </div>
                                     <div class="gallery-plus-icon">
-                                        <a href="{{url('assets/images/4547d2d2-3eae-41b7-97ee-3e79b97a3b3b.jfif')}}" data-lightbox="gallery-1" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                        <a href="{{url('assets/images/a23.jfif')}}" data-lightbox="gallery-1" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                                 <div class="gallery-item h-100">
-                                    <img src="{{url('assets/images/41347fab-37b2-4e70-945c-197f1fd8b7d1.jfif')}}" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <img src="{{url('assets/images/a24.jfif')}}" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
                                         </div>
                                     </div>
                                     <div class="gallery-plus-icon">
-                                        <a href="{{url('assets/images/41347fab-37b2-4e70-945c-197f1fd8b7d1.jfif')}}" data-lightbox="gallery-1" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                        <a href="{{url('assets/images/a24.jfif')}}" data-lightbox="gallery-1" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                                 <div class="gallery-item h-100">
-                                    <img src="{{url('assets/images/86207bc6-8099-46da-b31b-2ab4ccca743b.jfif')}}" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <img src="{{url('assets/images/a25.jfif')}}" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
                                         </div>
                                     </div>
                                     <div class="gallery-plus-icon">
-                                        <a href="{{url('assets/images/86207bc6-8099-46da-b31b-2ab4ccca743b.jfif')}}" data-lightbox="gallery-1" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                        <a href="{{url('assets/images/a25.jfif')}}" data-lightbox="gallery-1" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>

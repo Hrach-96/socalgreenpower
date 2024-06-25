@@ -14,7 +14,7 @@
         <div class="row g-5 align-items-center">
             <div class="col-lg-5">
                 <div class="h-100" style="border: 50px solid; border-color: transparent #13357B transparent #13357B;">
-                    <img src="{{url('assets/images/cbb543c8-fe3a-41c8-baf7-5b2e84f56b6e.jfif')}}" class="img-fluid w-100 h-100" alt="">
+                    <img src="{{url('assets/images/a12.jfif')}}" class="img-fluid w-100 h-100" alt="">
                 </div>
             </div>
             <div class="col-lg-7">
@@ -41,7 +41,7 @@
             </div>
             <div class="col-lg-5">
                 <div class="h-100" style="border: 50px solid; border-color: transparent #13357B transparent #13357B;">
-                    <img src="{{url('assets/images/e4c20f03-2690-426e-939d-fa11113d1a4e.jfif')}}" class="img-fluid w-100 h-100" alt="">
+                    <img src="{{url('assets/images/a14.jfif')}}" class="img-fluid w-100 h-100" alt="">
                 </div>
             </div>
         </div>

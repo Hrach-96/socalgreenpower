@@ -8,8 +8,8 @@
                     </div>
                     <div class="col-md-6 col-xs-12 col-sm-12 col-lg-6 col-xl-4">
                         <div class="footer-item d-flex flex-column">
-                            <a href=""><i class="fas fa-home me-2"></i> 123 Street, New York, USA</a>
-                            <a href=""><i class="fas fa-envelope me-2"></i> socalgreenpower@gmail.com</a>
+                            <a href=""><i class="fas fa-home me-2"></i> 10762 Mather ave sunland ca91040</a>
+                            <a href=""><i class="fas fa-envelope me-2"></i> info@socalgreenpower.com</a>
                             <a href="tel:8189342985"><i class="fas fa-phone me-2"></i> +8189342985</a>
                         </div>
                     </div>
